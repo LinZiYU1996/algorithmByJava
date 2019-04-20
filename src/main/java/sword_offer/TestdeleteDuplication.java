@@ -1,4 +1,4 @@
-import sword_offer.ListNode;
+package sword_offer;
 
 /*
 *
